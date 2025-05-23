@@ -15,4 +15,3 @@ Berikut adalah poin-poin yang telah berhasil dilakukan oleh praktikan:
 - [v] Melakukan _fork_ dan _clone_ _repository_.
 - [v] Meng-_generate_ _secret string_
 - [v] Melakukan _commit_ dan _push_ perubahan pada _repository_ hasil _fork_
-- [v] Contoh pemberian tanda checklist. Hapus sebelum push.
